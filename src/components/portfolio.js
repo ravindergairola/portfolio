@@ -14,7 +14,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
         <div class="portfolio-box">
@@ -23,7 +23,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
         <div class="portfolio-box">
@@ -32,7 +32,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
         <div class="portfolio-box">
@@ -41,7 +41,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
         <div class="portfolio-box">
@@ -50,7 +50,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
         <div class="portfolio-box">
@@ -59,7 +59,7 @@ function Portfolio(){
             <div class="portfolio-layer">
                 <h4>Web design</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci blanditiis aliquid.</p>
-                <a href="#"><i class='bx bx-link-external'></i></a>
+                <a href="/"><i class='bx bx-link-external'></i></a>
             </div>
         </div>
     </div>
